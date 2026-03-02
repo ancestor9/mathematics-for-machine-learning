@@ -4,7 +4,7 @@
 |--------------|----------------|------------------------|
 | **What(Yes)**  |  최적화 (Optimization) | 솔루션 (Solution)     |
 |              |                |                        |
-| **Waht(No)**  | 통찰 (Insight) |발견 (Discovery)  |
+| **What(No)**  | 통찰 (Insight) |발견 (Discovery)  |
 
 ### 나. 데이터과학의 역량과 스킬
 ### Math & Statistics Knowledge
