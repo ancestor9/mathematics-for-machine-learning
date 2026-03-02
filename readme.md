@@ -1,3 +1,11 @@
+
+|              |**분석방법(Yes)**| **분석방법(No)** |
+|--------------|----------------|------------------------|
+| **분석대상(Yes)**  |  최적화 (Optimization) | 솔루션 (Solution)     |
+|              |                |                        |
+| **분석대상 (No)**  | 통찰 (Insight) |발견 (Discovery)  |
+
+
 ### Math & Statistics Knowledge
 1. Probability & Statistics
 2. Derative, Modeling & Simulation
