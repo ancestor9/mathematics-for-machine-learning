@@ -1,8 +1,6 @@
 ### Math & Statistics Knowledge
-1. Statistics
-2. Probability
-3. Derative
-4. Modeling & Simulation
+1. Probability & Statistics
+2. Derative, Modeling & Simulation
 
 ### Hacking Skills
 1. Python, Javascripts, HTML/CSS, React
