@@ -1,10 +1,10 @@
 
-|              |**분석방법(Yes)**| **분석방법(No)** |
+|              |**How(Yes)**| **How(No)** |
 |--------------|----------------|------------------------|
-| **분석대상(Yes)**  |  최적화 (Optimization) | 솔루션 (Solution)     |
+| **What(Yes)**  |  최적화 (Optimization) | 솔루션 (Solution)     |
 |              |                |                        |
 |              |                |                        |
-| **분석대상 (No)**  | 통찰 (Insight) |발견 (Discovery)  |
+| **Waht(No)**  | 통찰 (Insight) |발견 (Discovery)  |
 
 
 ### Math & Statistics Knowledge
