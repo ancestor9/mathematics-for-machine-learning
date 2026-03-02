@@ -1,13 +1,12 @@
-### 데이터과학의 분석대상(What)과 분석방법(How)에 대하여
+### 가. 데이터과학의 분석대상(What)과 분석방법(How)에 대하여
 
 |              |**How(Yes)**| **How(No)** |
 |--------------|----------------|------------------------|
 | **What(Yes)**  |  최적화 (Optimization) | 솔루션 (Solution)     |
 |              |                |                        |
-|              |                |                        |
 | **Waht(No)**  | 통찰 (Insight) |발견 (Discovery)  |
 
-
+### 나. 데이터과학의 역량과 스킬
 ### Math & Statistics Knowledge
 1. Probability & Statistics
 2. Derative, Modeling & Simulation
