@@ -1,0 +1,50 @@
+import dataclasses
+from typing import List, Optional, TypedDict
+from pydantic import BaseModel, ValidationError
+
+## 1. dataclass 예제
+# ----------------------------------------------------
+
+@dataclasses.dataclass
+class DataUser:
+    """타입 힌트를 사용하지만, 런타임 유효성 검사는 없음."""
+    id: int
+    name: str
+    is_active: bool = True
+
+print("="*15 + " dataclass 결과 " + "="*15)
+
+# (1) 올바른 데이터
+user_data = DataUser(id=1, name="Alice")
+print(f"✅ 유효한 데이터 (정상): {user_data}")
+
+# (2) 유효하지 않은 데이터 (str 대신 int를 할당)
+# dataclass는 오류를 발생시키지 않고 값을 그대로 저장함 (타입 검사 X)
+invalid_user = DataUser(id=2, name=123)
+print(f"⚠️ 유효하지 않은 데이터 (저장됨): {invalid_user}")
+
+
+## 2. Pydantic BaseModel 예제
+# ----------------------------------------------------
+
+class PydanticUser(BaseModel):
+    """타입 힌트를 사용하며, 런타임에 유효성 검사 및 강제 변환 수행."""
+    id: int
+    name: str
+    is_active: bool = True
+
+print("\n" + "="*15 + " Pydantic 결과 " + "="*15)
+
+# (1) 올바른 데이터
+p_user_data = PydanticUser(id=1, name="Bob")
+print(f"✅ 유효한 데이터 (정상): {p_user_data}")
+
+# (2) 타입 강제 변환 (str '2'가 int로 자동 변환됨)
+p_user_coerce = PydanticUser(id='2', name="Charlie")
+print(f"🔄 타입 강제 변환 (정상): {p_user_coerce}")
+
+# (3) 유효성 검사 실패 (유효한 bool 값이 아님)
+try:
+    PydanticUser(id=3, name="David", is_active="not_a_bool")
+except ValidationError as e:
+    print(f"❌ 유효성 검사 실패: \n{e.errors()[0]}")
