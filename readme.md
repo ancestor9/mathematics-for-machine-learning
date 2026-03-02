@@ -9,7 +9,9 @@
 2. FastAPI, Webcrwaling, pandas, numpy, DataBase
 3. pytoch, tensorflow
 
-### Domain Knowledge
+### Subtantive Expertise
+1. Domain Knowledge
+2. Industry Experience
 
 
 <img src="https://machinelearningmastery.com/wp-content/uploads/2013/11/Data_Science_VD.png">
