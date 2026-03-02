@@ -6,6 +6,7 @@
 1. Python, Javascripts, HTML/CSS, React
 2. FastAPI, Webcrwaling, pandas, numpy, DataBase
 3. pytorch, tensorflow
+4. Generative AI programing (Langchain, MCP, AI agent)
 
 ### Subtantive Expertise
 1. Domain Knowledge
