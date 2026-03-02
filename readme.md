@@ -15,7 +15,8 @@
 
 <img src="https://machinelearningmastery.com/wp-content/uploads/2013/11/Data_Science_VD.png">
 
-### Math & Statistics Knowledge
+### Math & Statistics Knowledge 
+[link](https://www.mathsisfun.com/)
 1. Probability & Statistics
 2. Derative, Modeling & Simulation
 
