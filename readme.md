@@ -7,7 +7,7 @@
 ### Hacking Skills
 1. Python, Javascripts, HTML/CSS, React
 2. FastAPI, Webcrwaling, pandas, numpy, DataBase
-3. pytoch, tensorflow
+3. pytorch, tensorflow
 
 ### Subtantive Expertise
 1. Domain Knowledge
