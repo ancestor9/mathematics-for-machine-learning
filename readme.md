@@ -2,10 +2,10 @@
 1. Probability & Statistics
 2. Derative, Modeling & Simulation
 
-### Hacking Skills
+### Hacking Skills (Hard skills)
 1. Python, Javascripts, HTML/CSS, React
 2. FastAPI, Webcrwaling, pandas, numpy, DataBase
-3. pytorch, tensorflow
+3. pytorch, tensorflow, Keras
 4. Generative AI programing (Langchain, MCP, AI agent)
 
 ### Subtantive Expertise
