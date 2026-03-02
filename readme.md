@@ -4,5 +4,12 @@
 3. Derative
 4. Modeling & Simulation
 
+### Hacking Skills
+1. Python, Javascripts, HTML/CSS, React
+2. FastAPI, Webcrwaling, pandas, numpy, DataBase
+3. pytoch, tensorflow
+
+### Domain Knowledge
+
 
 <img src="https://machinelearningmastery.com/wp-content/uploads/2013/11/Data_Science_VD.png">
