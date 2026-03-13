@@ -16,7 +16,9 @@
 <img src="https://machinelearningmastery.com/wp-content/uploads/2013/11/Data_Science_VD.png">
 
 ### Math & Statistics Knowledge 
-[link](https://www.mathsisfun.com/)
+[mathsisfun](https://www.mathsisfun.com/)
+
+[same-stats-different-graphs](https://www.research.autodesk.com/publications/same-stats-different-graphs/)
 1. Probability & Statistics
 2. Derative, Modeling & Simulation
 
