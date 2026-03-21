@@ -1,3 +1,6 @@
+## 7. 회귀분석
+## 8. Perceptron
+
 ### 강의 개선사항
 - 1_statistics for machine learning.pptx :  데이터 요약 및 표현 이후 부문 compact하여야 함... 조금 지루함.(3학년 수업 중)
 
