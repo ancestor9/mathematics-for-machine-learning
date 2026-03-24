@@ -10,4 +10,4 @@
 | 5  | 4_Hypothesis Testing.pptx                     |           |
 | 6  | 5_Montecarlo Simulation.pptx                  |         |
 | 7  | 6_Matrix_vectors.pptx                         | Matrix_vectors_01.ipynb    |
-| 8  | 7_Applications of Linear Algebra.pptx         |     |
+| 8  | 7_Applications of Linear Algebra.pptx         | Image_representation.ipynb    |
