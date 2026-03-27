@@ -4,4 +4,4 @@
 ### 2. 위의 3개 코드 학습
 ### 3. Matrix & vectors의 선형변환을 학습하기
 
-## 참고자료로 [Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab_)
+#### 참고자료로 [Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab_) 동영상 4장까지
