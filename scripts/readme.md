@@ -11,3 +11,5 @@
 | 6  | 5_Montecarlo Simulation.pptx                  |         |
 | 7  | 6_Matrix_vectors.pptx                         | Matrix_vectors_01.ipynb    |
 | 8  | 7_Applications of Linear Algebra.pptx         | Image_representation.ipynb<br>Linear transformation_PCA.ipynb<br>RBF_kernel.ipynb<br>seminar_note_PCA.ipynb|
+| 9  | oters         | 04_seminar_note_5_1_anomaly_detection_supervised_KNN.ipynb|
+
