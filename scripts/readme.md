@@ -10,6 +10,6 @@
 | 5  | 5_Hypothesis Testing.pptx                     |           |
 | 6  | 5_Montecarlo Simulation.pptx                  |         |
 | 7  | 6_Matrix_vectors.pptx                         | Matrix_vectors_01    |
-| 8  | 7_Applications of Linear Algebra.pptx         | Image_representation<br>Linear transformation_PCA<br>RBF_kernel.ipynb<br>seminar_note_PCA<br>cell_contamination|
+| 8  | 7_Applications of Linear Algebra.pptx         | Image_representation<br>Linear transformation_PCA<br>RBF_kernel.ipynb<br>seminar_note_PCA<br>cell_contamination<br>Random_Walk_Simulation|
 | 9  | oters         | 03_Topic Model<br>04_seminar_note_5_1_anomaly_detection_supervised_KNN<br>05_Autoencoder|
 
