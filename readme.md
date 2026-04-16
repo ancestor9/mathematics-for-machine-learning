@@ -13,8 +13,6 @@
 ### 다. 데이터 과학의 역량과 스킬
 [친절한 데이터 사이언티스트 되기 강좌](https://recipesds.tistory.com/)
 
-<img src="https://machinelearningmastery.com/wp-content/uploads/2013/11/Data_Science_VD.png">
-
 ### Math & Statistics Knowledge 
 [mathsisfun](https://www.mathsisfun.com/)
 
