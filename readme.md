@@ -19,6 +19,9 @@
 [mathsisfun](https://www.mathsisfun.com/)
 
 [same-stats-different-graphs](https://www.research.autodesk.com/publications/same-stats-different-graphs/)
+
+[bayes](https://www.bayesserver.com/examples/networks/simpsons-paradox)
+
 1. Probability & Statistics
 2. Derative, Modeling & Simulation
 
