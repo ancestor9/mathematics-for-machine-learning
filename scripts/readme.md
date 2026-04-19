@@ -8,9 +8,9 @@
 | 3  | 3_probability theory for machine learning.pptx| histogram2probability  <br> Unsupervised_clustering_Kmeans_DBSCAN <br> solution_03_bayes_theorem      |
 | 4  | 4_Estimation.pptx                             |           |
 | 5  | 5_Hypothesis Testing.pptx                     |           |
-| 6  | w1_w2_System_of_Linear_Equations.pptx                 |         |
-| 7  | w3_Vectors_and_Linear_Transformations.pptx                  | w3_linear_transformation_image        |
-| 8  | w4_Perceptron_Regression.pptx                 | w4_loss_function <br> w4_stochastic_gradient_descent <br> w4_perceptron_wt_inputs       |
+| 6  | LA> w1_w2_System_of_Linear_Equations.pptx                 |         |
+| 7  | LA> w3_Vectors_and_Linear_Transformations.pptx                  | w3_linear_transformation_image        |
+| 8  | LA> w4_Perceptron_Regression.pptx                 | w4_loss_function <br> w4_stochastic_gradient_descent <br> w4_perceptron_wt_inputs       |
 | 6  | 5_Montecarlo Simulation.pptx                  |         |
 | 7  | 6_Matrix_vectors.pptx                         | <br>Matrix_vectors_01    |
 | 8  | 7_Applications of Linear Algebra.pptx         | Image_representation<br>Linear transformation_PCA<br>RBF_kernel.ipynb<br>seminar_note_PCA<br>cell_contamination<br>Random_Walk_Simulation|
