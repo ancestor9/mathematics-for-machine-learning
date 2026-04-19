@@ -14,11 +14,7 @@
 [친절한 데이터 사이언티스트 되기 강좌](https://recipesds.tistory.com/)
 
 #### 3.1. Math & Statistics Knowledge 
-[mathsisfun](https://www.mathsisfun.com/)
-
-[same-stats-different-graphs](https://www.research.autodesk.com/publications/same-stats-different-graphs/)
-
-[bayes](https://www.bayesserver.com/examples/networks/simpsons-paradox)
+[mathsisfun](https://www.mathsisfun.com/), [same-stats-different-graphs](https://www.research.autodesk.com/publications/same-stats-different-graphs/), [bayes](https://www.bayesserver.com/examples/networks/simpsons-paradox)
 
 1. Probability & Statistics
 2. Derative, Modeling & Simulation
