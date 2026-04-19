@@ -13,7 +13,7 @@
 ### 3. 데이터 과학의 역량과 스킬
 [친절한 데이터 사이언티스트 되기 강좌](https://recipesds.tistory.com/)
 
-### Math & Statistics Knowledge 
+#### 3.1. Math & Statistics Knowledge 
 [mathsisfun](https://www.mathsisfun.com/)
 
 [same-stats-different-graphs](https://www.research.autodesk.com/publications/same-stats-different-graphs/)
@@ -23,12 +23,12 @@
 1. Probability & Statistics
 2. Derative, Modeling & Simulation
 
-### Hacking Skills (Hard skills)
+#### 3.2. Hacking Skills (Hard skills)
 1. Python, Javascripts, HTML/CSS, React
 2. FastAPI, Webcrwaling, pandas, numpy, DataBase
 3. pytorch, tensorflow, Keras
 4. Generative AI programing (Langchain, MCP, AI agent)
 
-### Subtantive Expertise
+#### 3.3. Subtantive Expertise
 1. Domain Knowledge
 2. Industry Experience
