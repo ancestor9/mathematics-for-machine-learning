@@ -28,3 +28,7 @@
 #### 3.3. Subtantive Expertise
 1. Domain Knowledge
 2. Industry Experience
+
+### 머신러닝 시각화 도구로 이해하기
+- [Visual explanations of core machine learning concepts](https://mlu-explain.github.io/)
+- [Master AI Concepts with Interactive Learning!](https://www.101ai.net/overview/basics)
