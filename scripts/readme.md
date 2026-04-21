@@ -13,6 +13,6 @@
 | 8  | LA> w4_Perceptron_Regression.pptx                 | w4_loss_function <br> w4_stochastic_gradient_descent <br> w4_perceptron_wt_inputs       |
 | 6  | 5_Montecarlo Simulation.pptx                  |         |
 | 7  | 6_Matrix_vectors.pptx                         | <br>Matrix_vectors_01    |
-| 8  | 7_Applications of Linear Algebra.pptx         | Image_representation<br>Linear transformation_PCA<br>RBF_kernel.ipynb<br>seminar_note_PCA<br>cell_contamination<br>Random_Walk_Simulation|
-| 9  | oters         | 03_Topic Model<br>04_seminar_note_5_1_anomaly_detection_supervised_KNN<br>05_Autoencoder|
+| 8  | 7_Applications of Linear Algebra.pptx         | Image_representation<br>Linear transformation_PCA<br>RBF_kernel.ipynb<br>seminar_note_PCA<br>cell_contamination<br>Random_Walk_Simulation<br>odds_ratio_logit_sigmoid|
+| 9  | oters         | 03_Topic Model<br>04_seminar_note_5_1_anomaly_detection_supervised_KNN<br>05_Autoencoderb|
 
