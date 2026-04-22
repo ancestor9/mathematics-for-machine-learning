@@ -1,18 +1,18 @@
 
 1. Installation
 2. Tensor Basics
-Autograd
-Backpropagation
-Gradient Descent With Autograd and Backpropagation
-Training Pipeline: Model, Loss, and Optimizer
-Linear Regression
-Logistic Regression
-Dataset and DataLoader
-Dataset Transforms
-Softmax And Cross Entropy
-Activation Functions
-Feed-Forward Neural Net
-Convolutional Neural Net (CNN)
-Transfer Learning
-Tensorboard
-Save and Load Models
+3. Autograd
+4. Backpropagation
+5. Gradient Descent With Autograd and Backpropagation
+6. Training Pipeline: Model, Loss, and Optimizer
+7. Linear Regression
+8. Logistic Regression
+9. Dataset and DataLoader
+10. Dataset Transforms
+11. Softmax And Cross Entropy
+12. Activation Functions
+13. Feed-Forward Neural Net
+14. Convolutional Neural Net (CNN)
+15. Transfer Learning
+16. Tensorboard
+17. Save and Load Models
