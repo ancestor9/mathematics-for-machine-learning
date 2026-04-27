@@ -10,7 +10,7 @@
 | 5  | 5_Hypothesis Testing.pptx                     |           |
 | 6  | LA> w1_w2_System_of_Linear_Equations.pptx                 |         |
 | 7  | LA> w3_Vectors_and_Linear_Transformations.pptx                  | w3_linear_transformation_image        |
-| 8  | LA> w4_Perceptron_Regression.pptx                 | w4_loss_function <br> w4_stochastic_gradient_descent <br> w4_perceptron_wt_inputs<br>optimization <br> w4_torch_autograd_backward       |
+| 8  | LA> w4_Perceptron_Regression.pptx                 | w4_loss_function <br> w4_stochastic_gradient_descent <br> w4_perceptron_wt_inputs<br>optimization <br> w4_torch_autograd_backward <br> w4_odds_ratio_logit_sigmoid      |
 | 6  | 5_Montecarlo Simulation.pptx                  |         |
 | 7  | 6_Matrix_vectors.pptx                         | <br>Matrix_vectors_01    |
 | 8  | 7_Applications of Linear Algebra.pptx         | Image_representation<br>Linear transformation_PCA<br>RBF_kernel.ipynb<br>seminar_note_PCA<br>cell_contamination<br>Random_Walk_Simulation<br>odds_ratio_logit_sigmoid|
