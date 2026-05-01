@@ -9,6 +9,8 @@
 |              |                |                        |
 | **What(No)**  | 통찰 (Insight) |발견 (Discovery)  |
 
+### 과정 개요
+- Linear Algebra dir에는 통계와 확률을 학습하고 선형대수(행렬과 벡터 연산)와 pytorch까지
 
 ### 3. 데이터 과학의 역량과 스킬
 [친절한 데이터 사이언티스트 되기 강좌](https://recipesds.tistory.com/)
