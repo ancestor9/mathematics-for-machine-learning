@@ -9,11 +9,8 @@
 |              |                |                        |
 | **What(No)**  | 통찰 (Insight) |발견 (Discovery)  |
 
-### 과정 개요
+### 3. 과정 개요
 - Linear Algebra dir에는 통계와 확률을 학습하고 선형대수(행렬과 벡터 연산)와 pytorch까지
-
-### 3. 데이터 과학의 역량과 스킬
-[친절한 데이터 사이언티스트 되기 강좌](https://recipesds.tistory.com/)
 
 #### 3.1. Math & Statistics Knowledge 
 [mathsisfun](https://www.mathsisfun.com/), [same-stats-different-graphs](https://www.research.autodesk.com/publications/same-stats-different-graphs/), [bayes](https://www.bayesserver.com/examples/networks/simpsons-paradox)
@@ -30,3 +27,4 @@
 ### 머신러닝 시각화 도구로 이해하기
 - [Master AI Concepts with Interactive Learning!](https://www.101ai.net/overview/basics)
 - [Visual explanations of core machine learning concepts](https://mlu-explain.github.io/)
+- [친절한 데이터 사이언티스트 되기 강좌](https://recipesds.tistory.com/)
