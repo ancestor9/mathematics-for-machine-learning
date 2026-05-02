@@ -3,7 +3,7 @@
 1. 
 | No | File Name                                      | scrips(*.ipynb)        |
 |----|-----------------------------------------------|--------------------|
-| 1  | 1_statistics for machine learning.pptx         | solution_01_EDA_blood_transfusion_service_center        |
+| 1  | 1_statistics for machine learning.pptx         | solution_01_EDA_blood_transfusion_service_center <br> Chapter_19_Multivariate_Normal_Distribution      |
 | 2  | 2_histogram2probability.pptx                  | solution_02_Joint_kernel_density_anomaly_detection (Advanced)        |
 | 3  | 3_probability theory for machine learning.pptx| histogram2probability  <br> Unsupervised_clustering_Kmeans_DBSCAN <br> solution_03_bayes_theorem      |
 | 4  | 4_Estimation.pptx                             |           |
