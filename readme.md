@@ -24,7 +24,15 @@
 #### 3.3. Subtantive Expertise
 1. Domain Knowledge, 2. Industry Experience
 
-### 머신러닝 시각화 도구로 이해하기
+### 머신러닝 참고
 - [Master AI Concepts with Interactive Learning!](https://www.101ai.net/overview/basics)
 - [Visual explanations of core machine learning concepts](https://mlu-explain.github.io/)
 - [친절한 데이터 사이언티스트 되기 강좌](https://recipesds.tistory.com/)
+
+[Hands-On Machine Learning with Scikit-Learn and PyTorch](https://github.com/ageron/handson-mlp)
+
+[Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://github.com/ageron/handson-ml3)
+
+[Python-Machine-Learning](https://github.com/PacktPublishing/Python-Machine-Learning-Third-Edition/tree/master)
+
+[Machine Learning with PyTorch and Scikit-Learn](https://github.com/rasbt/machine-learning-book)
