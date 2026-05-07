@@ -38,3 +38,5 @@
 [Machine Learning with PyTorch and Scikit-Learn](https://github.com/rasbt/machine-learning-book)
 
 [자료구조론](https://wikidocs.net/332676)
+
+[Deep Learning Bible - 1. from Scratch](https://wikidocs.net/book/8808)
