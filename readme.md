@@ -36,3 +36,5 @@
 [Python-Machine-Learning](https://github.com/PacktPublishing/Python-Machine-Learning-Third-Edition/tree/master)
 
 [Machine Learning with PyTorch and Scikit-Learn](https://github.com/rasbt/machine-learning-book)
+
+[자료구조론](https://wikidocs.net/332676)
