@@ -29,6 +29,8 @@
 - [Visual explanations of core machine learning concepts](https://mlu-explain.github.io/)
 - [친절한 데이터 사이언티스트 되기 강좌](https://recipesds.tistory.com/)
 
+
+[oreilly_essential_math_for_data_science_book](https://github.com/thomasnield/oreilly_essential_math_for_data_science_book/tree/main)
 [Hands-On Machine Learning with Scikit-Learn and PyTorch](https://github.com/ageron/handson-mlp)
 
 [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://github.com/ageron/handson-ml3)
