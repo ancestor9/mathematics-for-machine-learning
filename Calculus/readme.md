@@ -4,7 +4,7 @@
 ### [모델링과 시뮬레이션](https://github.com/ancestor9/mathematics-for-machine-learning/blob/main/Calculus/Modeling_Simulation.pptx)
 - 모델링과 미분의 이해하고 몬테카를로 시뮬레이썬 학습하기
 
-### [Top down Approach]
+### Top down Approach, Not Bottom Up Approach !
 인공지능(LLM) 시대의 새로운 학습 및 문제 해결을 위한 [Paradigm_shift](https://en.wikipedia.org/wiki/Paradigm_shift)
 
 #### 1. ‘탑다운(Top-Down)’ 방식으로의 전환
