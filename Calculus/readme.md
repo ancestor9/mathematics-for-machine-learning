@@ -5,7 +5,8 @@
 - 모델링과 미분의 이해하고 몬테카를로 시뮬레이썬 학습하기
 
 ### Top down Approach, Not Bottom Up Approach !
-인공지능(LLM) 시대의 새로운 학습 및 문제 해결을 위한 [Paradigm_shift](https://en.wikipedia.org/wiki/Paradigm_shift)
+#### 대학은 인생의 문제해결을 위한 훈련연습소이지만 AI가 보편화 되면서,
+#### 인공지능(LLM) 시대의 새로운 학습 및 문제 해결을 위한 [Paradigm_shift](https://en.wikipedia.org/wiki/Paradigm_shift) 가 필요!
 
 #### 1. ‘탑다운(Top-Down)’ 방식으로의 전환
 - 기존 방식 (Bottom-Up): 기초 문법이나 이론부터 차근차근 배워서 나중에 큰 문제를 푸는 방식(전통적인 학교교육 시스템)
