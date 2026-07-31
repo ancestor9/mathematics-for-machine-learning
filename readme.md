@@ -33,7 +33,9 @@
 
 [bayes](https://www.bayesserver.com/examples/networks/simpsons-paradox)
 
-[oreilly_essential_math_for_data_science_book](https://github.com/thomasnield/oreilly_essential_math_for_data_science_book/tree/main)
+[Essential_Math_for_Data_Science_book](https://github.com/thomasnield/oreilly_essential_math_for_data_science_book/tree/main)
+
+[Data Science from Scratch_book](https://jcer.in/jcer-docs/E-Learning/Digital%20Library%20/E-Books/Data%20Science%20from%20Scratch%20by%20Joel%20Grus.pdf)
 
 [Hands-On Machine Learning with Scikit-Learn and PyTorch](https://github.com/ageron/handson-mlp)
 
